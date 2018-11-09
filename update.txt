@@ -1,0 +1,21 @@
+
+Run with patch request
+
+https://firestore.googleapis.com/v1beta1/projects/transport-ai/databases/(default)/documents/cars/car1
+
+
+Raw json data
+
+{
+    "name": "projects/transport-ai/databases/(default)/documents/cars/car1",
+    "fields": {
+        "latitude": {
+            "doubleValue": -8.53519251723059
+        },
+        "longitude": {
+            "doubleValue": 51.870305577640337
+        }
+    },
+    "createTime": "2018-10-10T14:39:16.374741Z",
+    "updateTime": "2018-10-30T22:48:00.494069Z"
+}
